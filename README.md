@@ -1,7 +1,7 @@
 # MedVibe Health GRC ISO/IEC 27001
 
 ## Overview
-This repository contains a practical implementation portfolio of a mini-Information Security Management System (ISMS) modelled for **MedVibe Health**, a cloud-native, healthcare B2B SaaS startup. 
+This repository contains a practical implementation of a mini-Information Security Management System (ISMS) modelled for **MedVibe Health**, a cloud-native, healthcare B2B SaaS startup. 
 
 The documentation demonstrates an end-to-end mapping of business risk down to operational policies, technical controls, and framework alignment under **ISO/IEC 27001:2022**.
 
